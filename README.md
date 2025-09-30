@@ -1,4 +1,4 @@
-# my_gbgpp
+# GBGPP：一种粒球Generation方法
 GBG++
 GBRS
-代码复现
+
